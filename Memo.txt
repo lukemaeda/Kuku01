@@ -1,0 +1,39 @@
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+P122
+
+“var firstForLoop = 0
+for i in 0..3 {
+    firstForLoop += i
+}
+firstForLoop
+ 
+var secondForLoop = 0
+for var i = 0; i < 3; ++i {
+    secondForLoop += 1
+}
+secondForLoop”
+
+抜粋：: Apple Inc. “The Swift Programming Language”。 iBooks. https://itun.es/jp/jEUH0.l
+
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+P340
+
+Methods
+“class Counter {
+    var count = 0
+    func increment() {
+        count++
+    }
+    func incrementBy(amount: Int) {
+        count += amount
+    }
+    func reset() {
+        count = 0
+    }
+}”
+
+抜粋：: Apple Inc. “The Swift Programming Language”。 iBooks. https://itun.es/jp/jEUH0.l
+
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
